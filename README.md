@@ -1,0 +1,2 @@
+# ejercicioCargaDeAlumnosConArreglo
+Created with CodeSandbox
